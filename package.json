@@ -34,7 +34,7 @@
     "split2": "^3.0.0"
   },
   "dependencies": {
-    "aws-sdk": "^2.342.0",
+    "aws-sdk": "^2.814.0",
     "bluebird": "^3.5.2",
     "body-parser": "^1.18.3",
     "bunyan": "^1.8.12",
