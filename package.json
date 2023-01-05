@@ -19,7 +19,7 @@
   "homepage": "https://github.com/underscope/storage-url-cache#readme",
   "license": "MIT",
   "devDependencies": {
-    "@babel/core": "^7.1.2",
+    "@babel/core": "^7.20.12",
     "dargs": "^6.0.0",
     "del-cli": "^1.1.0",
     "emoji-strip": "^1.0.1",
